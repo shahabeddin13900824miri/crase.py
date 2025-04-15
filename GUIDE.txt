@@ -1,0 +1,2 @@
+at the first you should run crase.py and finish!
+crase can open app,close app,go to web sites.
